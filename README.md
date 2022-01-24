@@ -1,4 +1,4 @@
-## This is a REST API for doing login and sign up using jwt token and storing http-only cookie in client's browser with proper status codes
+## REST APIS FOR SECURED LOGIN WITH JWT TOKEN AND HTTP ONLY COOKIE.
 
 # sign up
 sign up using username,password,mobile number,email,usertype.
